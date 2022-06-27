@@ -1,2 +1,2 @@
-# landing page with video background
-I make a website using a HTML and CSS with video background
+# Landing Page с видеофоном
+Я создал сайт используя html и css с видеофоном
